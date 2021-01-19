@@ -4,7 +4,8 @@
 ``by DeepLearning.AI``
 
 **About this Course**
-In Course 1 of the Natural Language Processing Specialization, offered by deeplearning.ai, you will:   
+
+<p> In Course 1 of the Natural Language Processing Specialization, offered by deeplearning.ai, you will:   
    
 a) Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
 b) Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and
