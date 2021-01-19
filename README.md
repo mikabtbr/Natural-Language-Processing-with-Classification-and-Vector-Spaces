@@ -1,9 +1,9 @@
 # Natural-Language-Processing-with-Classification-and-Vector-Spaces
 
 
-by DeepLearning.AI
+``by DeepLearning.AI``
 
-About this Course
+**About this Course**
 In Course 1 of the Natural Language Processing Specialization, offered by deeplearning.ai, you will:   
    
 a) Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
